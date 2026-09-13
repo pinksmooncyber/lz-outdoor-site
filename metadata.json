@@ -1,0 +1,6 @@
+{
+  "name": "LZ Outdoor - Adventure Rooftop Tents & Overland Gear",
+  "description": "Premium vehicle rooftop tents, 270° free-standing awnings, and outdoor camping gear. Built for rugged overland adventures, available for wholesale & effortless custom branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
